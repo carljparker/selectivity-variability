@@ -7,6 +7,10 @@ the following link:
 
 >  <https://quillette.com/2018/09/07/academic-activists-send-a-published-paper-down-the-memory-hole/>
 
+I obtained the paper from the following location:
+
+>  <https://arxiv.org/pdf/1703.04184.pdf>
+
 
  # --- END --- #
 
